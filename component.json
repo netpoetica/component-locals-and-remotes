@@ -1,0 +1,14 @@
+{
+  "name": "component-locales-and-remotes",
+  "description": "Test for bug https://github.com/component/component/issues/526#issuecomment-39775466",
+  "version": "0.0.1",
+  "locals": [
+    "boot"
+  ],
+  "paths": [
+    "core"
+  ],
+  "dependencies": {
+    "components/jquery": "^2.1.0"
+  }
+}

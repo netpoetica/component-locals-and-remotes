@@ -1,0 +1,6 @@
+{
+  "name": "cool-component",
+  "description": "The jazz player of components",
+  "version": "0.0.1",
+  "scripts": ["index.js"]
+}

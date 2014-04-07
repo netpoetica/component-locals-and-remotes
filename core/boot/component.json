@@ -1,0 +1,12 @@
+{
+  "name": "boot",
+  "description": "Main point of entry for component",
+  "version": "0.0.1",
+  "scripts": ["index.js"],
+  "dependencies": [
+    "m3-group/jsonfn"
+  ],
+  "locals": [
+    "cool-component"
+  ]
+}
